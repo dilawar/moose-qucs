@@ -1,0 +1,25 @@
+Makefile
+Makefile.in
+
+# latex stuff
+*.aux
+*.idx
+*.toc
+*.ild
+*.ilg
+*.bbl
+*.blg
+
+# figure stuff
+*.eps
+
+# report
+*.out
+
+# document
+*.dvi
+*.ps
+*.pdf
+
+# unknown
+*.ind
